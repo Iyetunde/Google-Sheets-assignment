@@ -30,7 +30,7 @@ The aim was to explore global access to safe and affordable drinking water using
   These helped to understand distribution and variability of water access.  
 
 Visualizations Created
--  Line charts comparing **urban vs. rural population shares  
+-  Line charts comparing urban vs. rural population shares  
 -  Box-and-whisker plots for water access across areas  
 -  100% stacked column charts (national comparisons)  
 
