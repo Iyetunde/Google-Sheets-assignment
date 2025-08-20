@@ -3,11 +3,11 @@ The aim was to explore global access to safe and affordable drinking water using
 What I Did:
 Imported and cleaned the dataset containing water access levels (basic, limited, unimproved, surface) for different countries, ensuring correct formatting and handling missing values.
 Created new calculated features such as population in millions, rural/urban population shares, and rounded values for better visualization.
-Analyzed population patterns at national, rural, and urban levels, comparing dataset totals with global population estimates.
+Analyzed population patterns at national, rural, and urban levels, comparing dataset totals with global population estimates.
 Calculated statistical measures (mean, median, mode, quartiles, IQR, standard deviation) to understand distribution and variability of water access.
 Created visualizations including:
-Line charts comparing urban vs. rural population shares
-Box-and-whisker plots for water access across areas
+Line charts comparing urban vs. rural population shares
+Box-and-whisker plots for water access across areas
 100% stacked column charts for national
 Pivot tables linking income groups to water access levels
 Interpreted insights about how income group, population size, and urbanisation relate to water access.
